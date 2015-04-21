@@ -1,2 +1,2 @@
-# fsa_community_curriculum
-Firefox Student Ambassador Curriculum
+# Firefox Student Ambassador Curriculum
+
